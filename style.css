@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #470063;
+}
+
+H1{color: #d2ec10; font-size: 60pt;}
+.card { background-image: url(vizitka.png);
+  background-repeat: no-repeat;
+  width: 33.5rem;
+  height: 20rem;
+  margin-left: -1rem;
+  box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
+    0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
+    0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
+  margin-bottom: 8rem; border-radius: 3rem;
+}
+thead {
+  font-size: 24pt;
+  color: #f5f5f5;
+  font-family: Montserrat-Black;
+  src: url(/Montserrat-Black.ttf);
+}
+.text {
+  padding-left: 12rem;
+  padding-top: 1rem;
+  font-family: Montserrat-r
